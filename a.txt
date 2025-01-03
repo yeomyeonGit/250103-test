@@ -12,3 +12,5 @@ gitignore에 쓰면 해당 파일을 무시하고 추적관찰한다.
 건드리지 말아야 할 파일을 초반에 ignore한다. 절대 git init으로 추적하면 안된다
 
 three
+
+four
